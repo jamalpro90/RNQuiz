@@ -61,7 +61,7 @@ export const data = [
   },
   {
     question: 'Siapakah yang paling ngeselin di antara berikut ?',
-    options: ['Nana', 'Angela', 'Tom Cruise', 'Ryan Reynolds'],
-    answer: 'Keanu Reeves',
+    options: ['Nana', 'Angela', 'Franco', 'Estes'],
+    answer: 'Nana',
   },
 ];
